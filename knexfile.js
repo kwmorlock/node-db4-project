@@ -24,3 +24,5 @@ module.exports = {
     },
   }, 
 };
+
+// npx knex migrate:make cars in terminal to create migrations file, migrations path set in migrations
